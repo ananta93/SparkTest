@@ -1,0 +1,11 @@
+In the last two decades, the continuous increase of computational power has produced an overwhelming flow of data. 
+Big data is not only becoming more available but also more understandable to computers. 
+For example, modern high-energy physics experiments, such as Dzero, typically generate more than one Tera Bytes of data per day. 
+The famous social network Website, Facebook, serves 570 billion page views per month, stores 3 billion new photos every month, and manages 25 billion pieces of content. 
+Google’s search and ad business, Facebook, Flickr, YouTube, and LinkedIn use a bundle of artificial-intelligence tricks, require parsing vast quantities of data and making decisions instantaneously. 
+Big data and cloud computing are both the fastest-moving technologies identified in Gartner Inc.’s 2012 Hype Cycle for Emerging Technologies4. 
+Cloud computing is associated with new paradigm for the provision of computing infrastructure and big data processing method for all kinds of resources. 
+Moreover, some new cloud-ba ed technologies have to be adopted because dealing with big data for concurrent processing is difficult. 
+Then what is Big Data? In the publication of the journal of Science 2008, “Big Data” is defined as “Represents the progress of the human cognitive processes, usually includes data sets with sizes beyond the ability of current technology, method and theory to capture, manage, and process the data within a tolerable elapsed time”. 
+Recently, the definition of big data as also given by the Gartner: “Big Data are high-volume, high-velocity, and/or high-variety information as ets that require new forms of processing to enable enhanced decision making, insight discovery and process optimization”. 
+According to Wikimedia, “In information technology, big data is a collection of data sets so large and complex that it becomes difficult to process using on-hand database management tools”.
